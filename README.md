@@ -1,0 +1,1 @@
+# Td_Archictectures_Applicatives
